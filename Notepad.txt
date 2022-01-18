@@ -2,4 +2,4 @@ whsatapp prfile
 
 chat code
 
-settings codde
+settings code
